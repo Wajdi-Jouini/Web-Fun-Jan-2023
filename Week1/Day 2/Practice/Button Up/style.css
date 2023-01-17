@@ -1,0 +1,29 @@
+button {
+    display: block;
+    margin: 30px 30px 30px;
+}
+.box1{
+    border-radius: 20px;
+    color: LightSkyBlue;
+    border-color: lightskyblue;
+    background-color: beige;
+    height: 40px;
+    width: 150px;
+}
+.box2{
+    color: white;
+    border-color: LightSeaGreen;
+    background-color: LightSeaGreen;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.box3 {
+    box-shadow: 10px 10px 5px black;
+    color: white;
+    border-color:black;
+    background-color: DodgerBlue;
+    height: 40px;
+    width: 200px;
+}
