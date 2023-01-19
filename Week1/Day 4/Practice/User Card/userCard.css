@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1000px;
+    height: 500px;
+    margin: 50px auto;
+    display: flex;
+}
+.profile {
+    width: 100%;
+    background-color: white;
+    border: 5px solid gray;
+}
+.head {
+    background-color: DarkCyan;
+    height: 130px;
+    margin-bottom: 100px;
+    
+}
+
+.profilebody {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    
+}
+.userPhoto {
+    border-radius: 50%;
+    background-color: #fff;
+    height: 200px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.image {
+    height: 20px;
+}
+
+a {
+    color: #3a81e6;
+}
