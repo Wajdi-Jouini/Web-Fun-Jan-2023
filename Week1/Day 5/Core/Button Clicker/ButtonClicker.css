@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin-right: 100px;
+    margin-left: 250px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+}
+.top{
+    background-color: LightGray;
+    height: 70px;
+    width: 900px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Search{
+    border: 3px solid black;
+    height: 30px;
+    width: 300px;
+    padding-left: 5px;
+    color: lightgray;
+}
+.Login{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: blue;
+    border: 3px solid black;
+    box-shadow: 5px 5px 0px 0px black;
+}
+.container{
+    width: 900px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    height: 200px;
+    width: 500px;
+    border: 3px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: space-around; 
+}
+.profil1{
+    width: 150px;
+    display:block;
+    text-align: center;
+}
+.P1{
+    width: 250px;
+}
+.line1{
+    margin-top: 10px;
+}
+.line2{
+    margin-top: 20px;
+}
+.line3{
+    margin-top: 20px;
+}
+.line4{
+    width: 110px;
+    height: 30px;
+    color: black;
+    background-color: gold;
+    box-shadow: 5px 5px 0px 0px black;
+    margin-top: 20px;
+}
+.box2{
+    height: 130px;
+    width: 250px;
+    border: 3px solid black; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 20px 0px 20px;
+}
+.box2line2{
+    height: 40px;
+    width: 250px;
+    color: black;
+    background-color: MediumSeaGreen;
+    box-shadow: 5px 5px 0px 0px;
+    border: 3px solid black;
+    margin-top: 10px;
+}
+.box3{
+    height: 200px;
+    width: 500px;
+    border: 3px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 30px;
+}
